@@ -4,7 +4,7 @@ Hi 👋 My name is Hilal
 Senior Software Engineer
 ------------------------
 
-I have 10+ years of software development experience using .NET Core, C#.NET, WPF, WCF, SharePoint. Responsible for developing, mentoring, and managing software engineers. I'm a Certified Project Manager by Project Management Institute, Nintex 2021 MENA MVP.
+I am a skilled software engineer with over 10 years of experience in leading and developing software applications. I have led teams of 8-10 members through more than 10 product launches, leveraging my expertise in various frameworks including Azure, .NET, Microsoft SharePoint, and more.
 
  *   🌍  I'm based in Qatar
  *   ✉️  You can contact me at [hilal\_yazbeck@hotmail.com](mailto:hilal_yazbeck@hotmail.com)
