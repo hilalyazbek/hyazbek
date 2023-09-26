@@ -13,6 +13,8 @@ I am a Senior Software Engineer with 12+ years of experience with a successful t
 ### Skills
 C#, ASP.Net, Dotnet Framework / Core, JavaScript, jQuery, Typescript, Angular, SQL, NoSQL, Postgres, SharePoint On-premise and Online, Power Bi, REST Api, System Design, Microservices, Ocelot Gateway, Azure App Service, Azure Functions, Blob Storage, Azure Service Bus, Azure Key vault, Clean Architecture, DDD, Event Driven Architecture, CQRS, Entity Framework, CI/CD, Docker, Azure DevOps, Yarp, RabbitMQ, ArcGIS, Elastic Search, Project Management, Coaching, Mentoring, Code Review
 
+### Website / Portfolio
+ <a href="https://hyazbek.azurewebsites.net" target="_blank" rel="noreferrer">website</a>
                     
 ### Socials
 <p align="left">
